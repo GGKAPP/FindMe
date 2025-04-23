@@ -1,0 +1,1 @@
+print('heCTF{succ3ss_@h3n1c@10n_g00dw0rk}')
